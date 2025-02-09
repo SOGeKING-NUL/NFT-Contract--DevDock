@@ -30,6 +30,7 @@ This contract **gamifies NFT ownership**, encouraging collectors to acquire both
 
 ## 🛠️ Technical Details
 - **Blockchain**: Ethereum
+- Contract can be found in `forge/src/NFT.sol`
 - **Solidity Version**: 0.8.20
 - **BaseNFT1 Contract Address**: `0x8dC6a70a583470A0f76E0D550A983Bb919531653`
 - **BaseNFT2 Contract Address**: `0xB549518c42491B547fC218DFCe67526BDF6E3cda`
